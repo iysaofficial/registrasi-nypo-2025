@@ -23,7 +23,7 @@ export default function Home() {
           </div>
         </div>
         <div className="wrapper">
-            <a href="/indonesiaparticipants" className="btn btn-custom text-center me-lg-5 m-2">Peserta Indonesia</a>
+            <Link href="/indonesiaparticipants" className="btn btn-custom text-center me-lg-5 m-2">Peserta Indonesia</Link>
         </div>
       </section>
     </>
